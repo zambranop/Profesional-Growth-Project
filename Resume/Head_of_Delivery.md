@@ -1,13 +1,13 @@
 # Head of Delivery
 
-**Company:** Grupo Capqtus  
-**Location:** Mexico City (CDMX)
+**Company:** Mid size companies
+**Location:** USA and/or Canada companies that are looking for people from Mexico City (CDMX) people to work remotely
 
 ---
 
 ## Role Overview
 
-The Head of Delivery is the architect and steward of Capqtus' delivery operating system.
+The Head of Delivery is the architect and steward of the delivery operating system.
 
 Their mission is to design a delivery environment where:
 
