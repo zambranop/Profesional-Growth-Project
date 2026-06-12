@@ -1,171 +1,154 @@
-Back to jobs 
+# Head of Delivery
 
-Apply 
+**Company:** Any mid size company.
+**Location:** USA / Canada for remote people based in Mexico 
 
-## Head of Delivery 
+---
 
-CDMX 
+## Role Overview
 
-The **Head of Delivery** is the architect and steward of Capptus’ delivery operating system. 
+The Head of Delivery is the architect and steward of the delivery operating system.
 
-Their mission is to design a delivery environment where: 
+Their mission is to design a delivery environment where:
 
-- AI removes execution friction 
+- AI removes execution friction
+- Human judgment, taste, and systems thinking drive decisions
+- Small, high-leverage teams consistently outperform larger, siloed ones
+- Knowledge compounds across projects instead of resetting each time
 
-- Human judgment, taste, and systems thinking drive decisions Small, high-leverage teams consistently outperform larger, siloed ones Knowledge compounds across projects instead of resetting each time 
+---
 
-## **Core Responsibilities (AI-First & System-Led):** 
+## Core Responsibilities
 
-## **1. Design the AI-First Delivery System (Primary Responsibility)** 
+### 1. Design the AI-First Delivery System *(Primary Responsibility)*
 
-Define how work flows from idea → delivery → learning: 
+Define how work flows from idea → delivery → learning:
 
-   - Where AI assists exploration, design, testing, and documentation 
+- Where AI assists exploration, design, testing, and documentation
+- Where human review and judgment are mandatory
+- Where decisions must be explicit, documented, and reversible
 
-   - Where human review and judgment are mandatory 
+Ensure all delivery roles operate in shared mediums:
 
-   - Where decisions must be explicit, documented, and reversible 
+- Same artifacts
+- Same tooling
+- Same understanding of context
+- Minimal handoffs
 
-- Ensure all delivery roles operate in shared mediums: 
+---
 
-   - Same artifacts 
+### 2. Elevate Judgment as the Core Delivery Skill
 
-   - Same tooling 
+Redesign delivery expectations so senior roles are evaluated on:
 
-   - Same understanding of context 
+- Quality of architectural decisions
+- Tradeoff clarity
+- Ability to frame problems, not just solve tasks
 
-   - Minimal handoffs 
+Institutionalize judgment rituals:
 
-## **2. Elevate Judgment as the Core Delivery Skill** 
+- Lightweight decision reviews
+- Explicit assumptions and risk articulation
+- "What would make this decision wrong?" discussions
 
-Redesign delivery expectations so senior roles are evaluated on: 
+Protect time for thinking:
 
-   - Quality of architectural decisions 
+- Architects and leads are not fully utilized — slack is intentional, not waste
+- Judgment degrades under constant execution pressure
 
-   - Tradeoff clarity 
+---
 
-   - Ability to frame problems, not just solve tasks 
+### 3. Operate Delivery as a Living System
 
-- Institutionalize judgment rituals: 
+Treat delivery as a system with four dimensions:
 
-   - Lightweight decision reviews 
+| Dimension | Elements |
+|---|---|
+| **Inputs** | Scope, constraints, talent, customer context |
+| **Flow** | Work in progress, dependencies, decisions |
+| **Outputs** | Value, quality, margin |
+| **Feedback** | Learning, reuse, improvement |
 
-   - Explicit assumptions and risk articulation 
+Identify and act on:
 
-   - “What would make this decision wrong?” discussions 
+- Bottlenecks
+- Feedback delays
+- Misaligned incentives
+- Over-optimization of local metrics
 
-- Protect time for thinking: 
+Use data (including Certinia) as signals, not commands.
 
-   - Architects and leads are not fully utilized 
+---
 
-Slack is intentional, not waste 
+### 4. Certinia as Observability, Not Control
 
-- Judgment degrades under constant execution pressure 
+- Surface patterns and constraints
+- Track financial and delivery reality
+- Enable fast, informed decisions
 
-## **3. Operate Delivery as a Living System** 
+---
 
-Treat delivery as: 
+### 5. Knowledge as a System Output
 
-   - Inputs (scope, constraints, talent, customer context) 
+Every project must produce:
 
-   - Flow (work in progress, dependencies, decisions) 
+- Reusable patterns
+- Decision rationales
+- What-worked / what-didn't insights
 
-   - Outputs (value, quality, margin) 
+AI is used to:
 
-   - Feedback (learning, reuse, improvement) 
+- Extract learning from delivery artifacts
+- Summarize complex projects
+- Connect current teams with prior context
 
-- Identify and act on: 
+Knowledge ownership is explicit:
 
-   - Bottlenecks 
+- Assets are curated, pruned, and reused
+- Learning feeds back into future delivery design
 
-   - Feedback delays 
+---
 
-   - Misaligned incentives 
+### 6. Talent Development for Systems Thinkers
 
-Over-optimization of local metrics 
+Build consultants and developers who:
 
-Use data (including Certinia) as signals, not commands. 
+- Understand the full delivery system
+- Can reason across data, platform, business, and customer context
+- Specialize deeply in judgment-heavy domains
 
-## **4. Certinia as Observability, Not Control** 
+Define a clear progression path:
 
-Surface patterns and constraints 
+> Task execution → Problem framing → System ownership → Mentorship
 
-- Track financial and delivery reality 
+Onboard juniors into thinking, not just doing:
 
-- Enable fast, informed decisions 
+- Early exposure to decisions
+- Explicit explanation of tradeoffs
+- AI used as a learning accelerator
 
-## **5. Knowledge as a System Output** 
+---
 
-Every project must produce: 
+### 7. Customer as Part of the System
 
-   - Reusable patterns 
+Treat customers as:
 
-   - Decision rationales 
+- Active participants in delivery
+- Decision-makers with constraints
+- Sources of feedback, not interruptions
 
-   - What-worked / what-didn’t insights 
+SteerCos are:
 
-- AI is used to: 
+- Alignment forums
+- Constraint-renegotiation spaces
+- Shared judgment environments
 
-   - Extract learning from delivery artifacts 
+---
 
-   - Summarize complex projects 
+## Leadership Expectations
 
-   - Connect current teams with prior context 
-
-- Knowledge ownership is explicit: 
-
-   - Assets are curated, pruned, and reused 
-
-   - Learning feeds back into future delivery design 
-
-## **6. Talent Development for Systems Thinkers** 
-
-What the HoD Builds 
-
-Consultants and developers who: 
-
-- Understand the full delivery system 
-
-- Can reason across data, platform, business, and customer context 
-
-- Specialize deeply in judgment-heavy domains 
-
-Clear progression: 
-
-From task execution → problem framing → system ownership → mentorship Juniors are onboarded into thinking, not just doing: 
-
-Early exposure to decisions 
-
-- Explicit explanation of tradeoffs 
-
-AI used as a learning accelerator 
-
-## **7. Customer as Part of the System** 
-
-Customers are treated as: 
-
-Active participants in delivery 
-
-- Decision-makers with constraints 
-
-Sources of feedback, not interruptions 
-
-- SteerCos are: 
-
-   - Alignment forums 
-
-   - Constraint-renegotiation spaces 
-
-   - Shared judgment environments 
-
-## **Leadership Expectations** 
-
-Optimize for long-term leverage, not short-term output 
-
-- Make invisible work visible (decisions, tradeoffs, learning) 
-
-- Use AI comfortably without surrendering responsibility 
-
-- Protect buena onda while holding high standards 
-
-Think like a system architect, not a project manager. 
+- Optimize for long-term leverage, not short-term output
+- Make invisible work visible — decisions, tradeoffs, and learning
+- Use AI comfortably without surrendering responsibility
+- Protect *buena onda* while holding high standards
+- Think like a system architect, not a project manager
