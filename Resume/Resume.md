@@ -1,238 +1,148 @@
-Contactar 
+# Pedro Zambrano
 
-5513844754 (Mobile) 
+**Head of Delivery | IT · Digital Transformation · SAFe® 5 Agilist**  
+Mexico City Metropolitan Area  
+📞 +52 55 1384 4754 · ✉️ zambranop@gmail.com · [LinkedIn](https://www.linkedin.com/in/pmozambranop)
 
-zambranop@gmail.com 
+---
 
-www.linkedin.com/in/ 
+## Professional Summary
 
-pmozambranop (LinkedIn) 
+Senior Delivery Manager with 9+ years of experience leading digital transformation and IT-oriented projects across consulting and agency environments. Proven track record of standardizing delivery processes, scaling agile frameworks across cross-functional teams, and driving measurable improvements in project timelines, cost efficiency, and team performance. Combines strategic consulting mindset with hands-on execution to align business goals with delivery outcomes.
 
-Aptitudes principales 
+---
 
-Project Management Office (PMO) Program Management 
+## Core Skills
 
-Resource Management 
+**Delivery & Program Management** · **Agile / SAFe Frameworks** · **Process Optimization** · **Risk & Change Management** · **Cross-functional Team Leadership** · **Resource Management** · **PMO Design & Governance** · **Stakeholder Alignment**
 
-Languages 
+---
 
-Spanish (Native or Bilingual) English (Professional Working) 
+## Professional Experience
 
-Certifications 
+### Orium — Senior Delivery Manager
+*April 2023 – Present | Mexico City, Mexico*
 
-Programación y presupuesto del proyecto 
+- Led the standardization of project management processes across the organization, resulting in a **20% improvement in project delivery timelines**.
+- Spearheaded the implementation of an Agile Release Train (ART), aligning cross-functional teams and accelerating product delivery cycles by **15%**.
 
-Contentful Certified Content Manager 
+---
 
-Introduction to Six Sigma 
+### Gluo — Senior Delivery Manager
+*November 2019 – Present | Mexico City, Mexico*
 
-La gestión de los riesgos y la administración de los cambios en el proyecto 
+- Led the standardization of project management processes across the organization, resulting in a **20% improvement in project delivery timelines**.
+- Spearheaded the implementation of an Agile Release Train (ART), aligning cross-functional teams and accelerating product delivery cycles by **15%**.
 
-Iniciación y Planificación de Proyectos   
-Pedro Zambrano 
+### Gluo — Project Manager
+*September 2017 – April 2023 | Mexico City, Mexico*
 
-Head of Delivery Mindset | IT | Digital Transformation | SAFe® 5 Agilist 
+- Orchestrated the transformation of project management practices by integrating agile and waterfall methodologies, resulting in a **15% reduction in project costs**.
+- Successfully managed end-to-end project lifecycles, implementing corrective actions that minimized project deviations by **10%**.
 
-Área metropolitana de Ciudad de México 
+---
 
-Extracto 
+### Digital Nuts Agency — Digital Project Manager
+*March 2017 – September 2017 | Mexico City, Mexico*
 
-I am a Senior Business Process Manager with over 7 years of experience driving business process transformation through IT oriented projects. Specializing in process optimization, I have successfully led multidisciplinary teams to implement innovative solutions, resulting in improved operational efficiency and significant cost reductions. My expertise includes strategic consulting, the integration of emerging technologies, and aligning business strategies with process improvements to achieve long-term organizational goals. 
+- Implemented process optimization techniques that improved project timelines by **10%**, ensuring timely delivery of digital marketing campaigns.
 
-Experiencia 
+---
 
-Orium 
+### ifahto digital — Digital Project Manager
+*May 2016 – December 2016 | Mexico City, Mexico*
 
-Senior Delivery Manager 
+- Led the digital transformation of project workflows by implementing automation tools, reducing manual tasks by **5%** and enhancing overall project efficiency.
+- Collaborated with cross-functional teams to streamline creative processes, reducing project turnaround time by **15%** and improving client satisfaction.
+- Developed and implemented standardized procedures for project tracking and reporting, ensuring consistent delivery across all digital campaigns.
+- Facilitated the integration of new project management software, training teams and optimizing usage to improve project visibility and coordination.
 
-abril de 2023 - Present (3 años) 
+---
 
-Mexico City, Mexico 
+### TANQUEGROUP — Social Media Manager / Community Manager
+*December 2015 – May 2016 | Mexico City, Mexico*
 
-Led the standardization of project management processes across the organization, resulting in a 20% improvement in project delivery timelines. Spearheaded the implementation of Agile Release Train, aligning cross functional teams and accelerating product delivery cycles by 15%. 
+- Developed and executed content strategies across multiple social networks.
+- Led monthly analytics and campaign reporting; produced benchmarking studies and presales presentations.
 
-Gluo 
+---
 
-8 años 7 meses 
+### MAGA Marketing Gastronómico — Founder & Marketing Director
+*October 2014 – May 2016 | Mexico City, Mexico*
 
-Senior Delivery Manager 
+- Founded and led a digital marketing startup focused on restaurant clients, managing multi-platform content strategy, CPC/CPM campaigns, and QA across creative deliverables (graphic design, photography, community management).
+- Oversaw analytics reporting and campaign optimization across all managed accounts.
 
-noviembre de 2019 - Present (6 años 5 meses) 
+---
 
-Mexico City, Mexico 
+### Interlat Group — Speaker
+*October 2015 | Bogotá, Colombia*
 
-Led the standardization of project management processes across the organization, resulting in a 20% improvement in project delivery timelines. Spearheaded the implementation of Agile Release Train, aligning cross functional teams and accelerating product delivery cycles by 15%. 
+- Delivered a session on SEO strategy covering on-page/off-page techniques, search engine landscape, and KPI measurement.
 
-Project Manager 
+---
 
-septiembre de 2017 - abril de 2023 (5 años 8 meses) 
+### ProEpta Hotel Collection — Speaker
+*July 2015 – September 2015*
 
-Page 1 of 5  
-Mexico 
+- Facilitated a social media management course for restaurant operators, covering content planning, crisis management, community tools, and monthly analytics reporting.
 
-Orchestrated the transformation of project management practices, integrating agile and waterfall methodologies to streamline processes, resulting in a 15% reduction in project costs. 
+---
 
-Successfully managed end-to-end project lifecycles, implementing corrective actions that minimized project deviations by 10%. 
+### Instituto de Gastronomía México — Chef Instructor
+*May 2012 – August 2014 | Mexico City, Mexico*
 
-Digital Nuts Agency 
+- Taught courses in vegetarian cooking, nutrition, restaurant management, and restaurant marketing.
+- Automated input requisition processes for practical classes, improving operational efficiency by **50%**.
 
-Digital Project Manager 
+---
 
-marzo de 2017 - septiembre de 2017 (7 meses) 
+### Grupo del Valle — Executive Chef / Chef Instructor
+*May 2012 – August 2014 | Mexico City, Mexico*
 
-Implemented process optimization techniques that improved project timelines by 10%, ensuring timely delivery of digital marketing campaigns 
+- Led planning, staff organization, and inventory management for large-scale banquet events across Mexico City.
 
-ifahto digital 
+---
 
-Digital Project Manager 
+### Barquisimeto Golf Club — Executive Chef
+*November 2011 – March 2012 | Cabudare, Lara, Venezuela*
 
-mayo de 2016 - diciembre de 2016 (8 meses) 
+---
 
-Ciudad de México y alrededores, México 
+### Central Banco Universal — Customer Service Executive
+*2003 – 2010 | Lara, Venezuela*
 
-Led the digital transformation of project workflows, implementing automation tools that reduced manual tasks by 5%, enhancing overall project efficiency. Collaborated with cross-functional teams to streamline creative processes, reducing project turnaround time by 15% and improving client satisfaction. Developed and implemented standardized procedures for project tracking and reporting, ensuring consistent delivery across all digital campaigns. Facilitated the integration of new project management software, training teams and optimizing use to improve project visibility and coordination. 
+- Managed the annual media plan including programming, execution, and performance monitoring.
+- Administered department budget and supervised internal/external communications.
+- Coordinated product launch events and oversaw agency-produced advertising materials.
+- Facilitated onboarding and induction processes for new staff.
 
-TANQUEGROUP 
+---
 
-Social media manager/Community manager 
+## Education
 
-diciembre de 2015 - mayo de 2016 (6 meses) 
+| Institution | Program | Year |
+|---|---|---|
+| UVEG Guanajuato | Engineering — Project Management | 2018–2021 |
+| CESA Management Solutions | Specialization Diploma — Leadership & Management I | 2023 |
+| Tecnológico de Monterrey | Specialization Diploma — Planning & Managing Successful Projects | 2016 |
+| Universidad Nacional Autónoma de México | Specialization Diploma — Digital Marketing | 2015 |
+| Universidad Pontificia Bolivariana | Social Media & Community Management | 2015 |
 
-\- Generation of the content strategy for each social network. \- Develope, execution and content plan optimization for each account. \- Social network brand monitoring. 
+---
 
-\- Analytics and monthly campaign reporting. 
+## Certifications
 
-\- Benchmarking. 
+- SAFe® 5 Agilist
+- Contentful Certified Content Manager
+- Introduction to Six Sigma
+- Project Scheduling & Budgeting
+- Risk Management & Change Management in Projects
+- Project Initiation & Planning
 
-\- Presales projects presentations. 
+---
 
-MAGA Marketing Gastronómico 
+## Languages
 
-Founder / Marketing Director 
-
-octubre de 2014 - mayo de 2016 (1 año 8 meses) 
-
-Ciudad de México y alrededores, México 
-
-Page 2 of 5  
-\-Marketing planning in social media for several restaurants. \-Generation of content strategies for each of the managed networks during the hired period. 
-
-\-Quality assurance on deliverables of graphic design, community management, and photography departments. 
-
-\-Development, execution and optimization of CPC and CPM campaigns on Facebook. 
-
-\-Analytics reports. 
-
-Interlat Group 
-
-Speaker 
-
-octubre de 2015 - octubre de 2015 (1 mes) 
-
-Bogotá Colombia 
-
-SEO actions to improve the positioning of your website. 
-
-\- Current situation of search engines. 
-
-\- Introduction to SEO and terminology. 
-
-\- SEO on-page. 
-
-\- SEO off-page. 
-
-\- SEO KPIs metrics. 
-
-ProEpta Hotel Collection 
-
-Speaker 
-
-julio de 2015 - septiembre de 2015 (3 meses) 
-
-Social media management course for restaurants. 
-
-\- Take advantage of the potential of social media to attract the attention of diners, directing a message according to the public that wants to address the gastronomic business. 
-
-\- Learn to develop a plan where the work schedule is structured day by day. \- Manage tools that will help you to correctly manage your establishment's social networks, making their management more efficient. 
-
-\- Generate a crisis management plan, with all the elements to give the best response to a possible situation that puts the reputation of the gastronomic business at risk. 
-
-\- Prepare a monthly analytics report where you can obtain important data to further improve social media management. 
-
-Interlat Group 
-
-Panelist 
-
-Page 3 of 5  
-agosto de 2015 - agosto de 2015 (1 mes) 
-
-Panel: La blogosfera como herramienta de atracción al usuario. 
-
-Instituto de gastronomía México 
-
-Chef Instructor 
-
-mayo de 2012 - agosto de 2014 (2 años 4 meses) 
-
-Coapa, Ciudad de México 
-
-As instructor chef I had the opportunity to teach classes: Vegetarian cooking, Nutrition, restaurant management and Marketing for restaurants among others. With which I was able to automate processes such as input requisitions for practical classes, optimizing work by up to 50%. On the other hand, it was with the restaurant management and restaurant marketing classes that I rediscovered my passion for marketing by undertaking with the MAGA Marketing Gastronómico Digital startup. 
-
-Grupo del Valle 
-
-Executive chef / Chef instructor 
-
-mayo de 2012 - agosto de 2014 (2 años 4 meses) 
-
-Coapa, Ciudad de México 
-
-My experience as executive chef at Grupo del Valle banquets was enriching because I did the planning, staff organization, inventory management for different mass events in Mexico City. 
-
-Barquisimeto golf club 
-
-Executive Chef 
-
-noviembre de 2011 - marzo de 2012 (5 meses) 
-
-Cabudare, Edo. Lara 
-
-Central Banco Universal 
-
-Costumer Service Executive 
-
-2003 - 2010 (7 años) 
-
-Lara, Venezuela 
-
-\- Programming, execution, and monitoring of the annual media plan. \- Administration of the budget of the area. 
-
-\- Management of teamwork. 
-
-\- Supervision of both internal and external communication. 
-
-\- Planning of events to launch products or to boost the image of existing ones. \- Supervision of the proper use of POS material in agencies. \- Facilitator in the induction process in the processes related to the new staff area. 
-
-Page 4 of 5  
-\- Supervision of the advertising agency in the production of advertising material. 
-
-Educación 
-
-UVEG Guanajuato 
-
-Ingenieering, Project Management · (2018 - 2021) 
-
-CESA Management Solutions 
-
-Especialization diploma, Leadership and management I · (abril de 2023 - noviembre de 2023\) 
-
-Tecnológico de Monterrey 
-
-Especialization diploma, Planning and managing successful projects · (2016 - 2016) 
-
-Universidad Nacional Autónoma de México 
-
-Especialization diploma, Digital marketing · (2015 - 2015) 
-
-Universidad Pontificia Bolivariana 
-
-Social Media & Community Management, Marketing digital · (2015 - 2015) Page 5 of 5
+- **Spanish** — Native / Bilingual
+- **English** — Professional Working Proficiency
