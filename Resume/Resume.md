@@ -146,3 +146,11 @@ Senior Delivery Manager with 9+ years of experience leading digital transformati
 
 - **Spanish** — Native / Bilingual
 - **English** — Professional Working Proficiency
+
+---
+
+## Salary Expectations
+
+- **MXN** — Gross $130,000.00 to $140,000.00 (Monthly)
+- **USD** — Gross $9,000.00 to $11,000.00 (Monthly)
+
